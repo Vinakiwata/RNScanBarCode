@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BHBapp.iml" filepath="$PROJECT_DIR$/.idea/modules/BHBapp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BHBapp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BHBapp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RNScanBarCode.iml" filepath="$PROJECT_DIR$/.idea/modules/RNScanBarCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RNScanBarCode.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RNScanBarCode.app.iml" />
     </modules>
   </component>
 </project>

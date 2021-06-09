@@ -358,7 +358,6 @@ export default class Camera extends React.Component<PropsType, StateType> {
     VideoCodec: CameraManager.VideoCodec,
     BarCodeType: CameraManager.BarCodeType,
     GoogleVisionBarcodeDetection: CameraManager.GoogleVisionBarcodeDetection,
-    // FaceDetection: CameraManager.FaceDetection,
     CameraStatus,
     CaptureTarget: CameraManager.CaptureTarget,
     RecordAudioPermissionStatus: RecordAudioPermissionStatusEnum,

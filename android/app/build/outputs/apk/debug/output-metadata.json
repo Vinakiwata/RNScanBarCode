@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.bhbapp",
+  "applicationId": "com.rnscanbarcode",
   "variantName": "processDebugResources",
   "elements": [
     {

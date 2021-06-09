@@ -1,6 +1,0 @@
-module Pods_BHBapp_BHBappTests {
-  umbrella header "Pods-BHBapp-BHBappTests-umbrella.h"
-
-  export *
-  module * { export * }
-}

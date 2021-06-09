@@ -1,0 +1,6 @@
+module Pods_RNScanBarCode {
+  umbrella header "Pods-RNScanBarCode-umbrella.h"
+
+  export *
+  module * { export * }
+}
