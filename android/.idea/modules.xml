@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/RNScanBarCode.iml" filepath="$PROJECT_DIR$/.idea/modules/RNScanBarCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RNScanBarCode.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RNScanBarCode.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/970161707/RNScanBarCode.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/970161707/RNScanBarCode.react-native-vector-icons.iml" />
     </modules>
   </component>
 </project>

@@ -27,7 +27,8 @@ import {
   LearnMoreLinks,
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
-import RNCamera from './src/CameraView'
+import DetectBarCode from './src/CameraView'
+import PhotoCamera from './src/PhotoCamera'
 
 const Section = ({children, title}): Node => {
   const isDarkMode = useColorScheme() === 'dark';
@@ -70,7 +71,8 @@ const App: () => Node = () => {
         <Text style={{color:'white'}}>Hello Camera!!</Text>
       </View>
       <View style={{flex:1}}>
-      <RNCamera/>
+      <DetectBarCode/>
+      {/* <PhotoCamera/> */}
       </View>
     </SafeAreaView>
   );
